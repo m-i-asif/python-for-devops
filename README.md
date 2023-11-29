@@ -6,7 +6,6 @@ from zero repository for doing python DevOps work
 Create development environment that is cloud-based:
 ### Colab Notebook
 ### Github Codespaces
-### AWS CloudShell
 * Makefile
 * rquirements.txt
 * test_library.py
@@ -14,6 +13,8 @@ Create development environment that is cloud-based:
 * Dockerfile
 * command-line-tool
 * Microservice
+
+### AWS CloudShell
 ### AWS Coud9
 
 ## Command-Line tools
