@@ -14,6 +14,12 @@ Create development environment that is cloud-based:
 * command-line-tool
 * Microservice
 
+1. Create virtualenv
+    remove default virtual env - poetry env remove python
+    set virtual env path to current project - poetry config virtualenvs.path  .
+    create virtual env - poetry env use python
+
+
 ### AWS CloudShell
 ### AWS Coud9
 
